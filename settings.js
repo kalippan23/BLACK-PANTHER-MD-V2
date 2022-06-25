@@ -49,7 +49,7 @@ global.ownername = 'kalippan ser🌹⃝⃘̉̉̉̉̉̉🧚'
 
 global.botname = '🖤kalippan Bot🖤'
 
-global.footer = '©kalippan 🖤.'
+global.footer = '©kalippan🖤.'
 
 global.ig = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
 
@@ -59,9 +59,9 @@ global.sc = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
 
 global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
 
-global.packname = '🖤Black Panther Bot🖤'
+global.packname = '🖤Bkalippan Bot🖤'
 
-global.author = '🖤Black Panther Bot🖤'
+global.author = '🖤kalippan Bot🖤'
 
 global.sessionName = 'session'
 
